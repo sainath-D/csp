@@ -1,0 +1,16 @@
+body{
+    background-color:lavenderblush;
+}
+/* .main{
+    display: flex;
+    padding:5px;
+} */
+.img1 {
+    margin-top: 40px;
+    padding-left: 170px;
+}
+ p{
+    width:900px;
+    /* height:300px; */
+    font-size: 20px;
+}
